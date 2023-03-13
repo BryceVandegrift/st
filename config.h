@@ -7,7 +7,7 @@
  */
 static char *font = "monospace:size=11:antialias=true";
 /* Spare fonts */
-static char *font2[] = { "SymbolaRegular:pixelsize=11:antialias=true:autohint=true" };
+static char *font2[] = { "NotoColorEmoji:pixelsize=11:antialias=true:autohint=true" };
 
 static int borderpx = 2;
 
